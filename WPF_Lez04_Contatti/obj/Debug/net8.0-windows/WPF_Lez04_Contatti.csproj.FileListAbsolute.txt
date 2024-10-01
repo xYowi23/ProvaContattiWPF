@@ -134,3 +134,4 @@ C:\Users\Utente\source\repos\WPF_Lez04_Contatti\WPF_Lez04_Contatti\obj\Debug\net
 C:\Users\Utente\source\repos\WPF_Lez04_Contatti\WPF_Lez04_Contatti\obj\Debug\net8.0-windows\ref\WPF_Lez04_Contatti.dll
 C:\Users\Utente\source\repos\WPF_Lez04_Contatti\WPF_Lez04_Contatti\obj\Debug\net8.0-windows\TabellaContatti.g.cs
 C:\Users\Utente\source\repos\WPF_Lez04_Contatti\WPF_Lez04_Contatti\obj\Debug\net8.0-windows\TabellaContatti.baml
+C:\Users\Utente\source\repos\WPF_Lez04_Contatti\WPF_Lez04_Contatti\obj\Debug\net8.0-windows\WPF_Lez04_Contatti.sourcelink.json

@@ -95,9 +95,9 @@ namespace WPF_Lez04_Contatti
             TabellaContatti contattiWindow = new TabellaContatti();
 
   
-            contattiWindow.dgContatti.ItemsSource = GetContatti();
+            contattiWindow.dbContatti.ItemsSource = GetContatti();
 
-            // Mostra la nuova finestra
+        
             contattiWindow.Show();
         }
 
